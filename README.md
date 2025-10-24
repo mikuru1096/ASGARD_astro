@@ -27,4 +27,4 @@ The recommended citation bibilography format is:
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
       }
 
-This project name is ASGARD, Retrieved from https://github.com/mikuru1096/ASGARD_astro"
+This project name is ASGARD, Retrieved from https://github.com/mikuru1096/ASGARD_astro
