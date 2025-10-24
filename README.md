@@ -7,7 +7,7 @@ you are required to provide explicit attribution to this original code project i
 
 The recommended citation bibilography format is:
 
-@ARTICLE{2024ApJ...962..115R,
+       @ARTICLE{2024ApJ...962..115R,
 
        author = {{Ren}, Jia and {Wang}, Yun and {Dai}, Zi-Gao},
        title = "{Jet Structure and Burst Environment of GRB 221009A}",
@@ -25,6 +25,6 @@ The recommended citation bibilography format is:
        primaryClass = {astro-ph.HE},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2024ApJ...962..115R},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
+      }
 
 This project name is ASGARD, Retrieved from https://github.com/mikuru1096/ASGARD_astro"
